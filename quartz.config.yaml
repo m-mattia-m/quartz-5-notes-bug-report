@@ -221,7 +221,7 @@ plugins:
         GitHub: https://github.com/m-mattia-m
         My site: https://mattiamueggler.ch
   - source: github:quartz-community/recent-notes
-    enabled: true
+    enabled: false
     options:
       title: Recent Notes
       limit: 5
