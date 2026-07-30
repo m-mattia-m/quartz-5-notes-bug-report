@@ -8,7 +8,7 @@ configuration:
     provider: plausible
     host: "https://plausible.mydomain.com"
   locale: en-US
-  baseUrl: "m-mattia-m.github.io/quartz-5-notes-bug-report",
+  baseUrl: "m-mattia-m.github.io/quartz-5-notes-bug-report"
   ignorePatterns:
     - private
     - templates
